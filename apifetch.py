@@ -1,4 +1,5 @@
 import requests
+import pygame
 
 # Replace this with the API endpoint you want to fetch data from
 api_url = "http://localhost/Testing/Testing.php"
